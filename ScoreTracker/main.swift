@@ -8,14 +8,13 @@
 
 import Foundation
 
-print("Please enter  your input: \n")
+print("Please enter  your input: ")
 
 var aScore = 0
 var bScore = 0
 var cScore = 0
 var dScore = 0
 var eScore = 0
-var allScore = [Int]()
 
 if let response = readLine() {
     
